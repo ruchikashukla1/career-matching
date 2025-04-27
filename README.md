@@ -10,7 +10,7 @@ Unlike ATS-like resume matchers and traditional resume matching, this project at
 
 ### What kind of query works best?
 Make sure you have a job description ready with you. Any additional requirements can go with that.
-Example:
+##### Example:
     "Education: Bachelor's in Data Science"
     "Skills: Python, SQL, statsmodels, SARIMA, Regression"
     "Projects: Developed time series analysis/forecasting models"
