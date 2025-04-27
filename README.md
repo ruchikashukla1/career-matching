@@ -9,3 +9,6 @@ Unlike ATS-like resume matchers and traditional resume matching, this project at
 1. Download the executable.ipnyb and upload on Google Colab. Select Runtime -> Run all
 
 ### What kind of query works best?
+
+
+### Acknowledgements
