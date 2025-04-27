@@ -1,6 +1,9 @@
 ### Motivation: 
 Unlike ATS-like resume matchers and traditional resume matching, this project attempts at varied resume selection process including career trajectory of a candidate, the WHOLE of resume and not just keywords, and explanability into why a candidate was chosen.
 
+### Overview:
+Extract individual sections of resume -> SBERT -> Learn how these sections interact with each oher to form combined weighted embeddings through Gated Residual Network -> Filter top n -> Predict career trajectory -> Pass filtered candidate details to LLM -> Explanability + Top m candidates (second filtering)
+
 ### Architecture
 ![image](https://github.com/user-attachments/assets/50ffc6ab-fb1f-4870-a8d9-afc05ee8feb4)
 
